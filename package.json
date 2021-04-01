@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-service-discovery",
+  "version": "0.0.1",
+  "description": "Cordova plugin for serviceDiscovery",
+  "cordova": {
+    "id": "cordova-plugin-service-discovery",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "tagfans",
+  "license": "ISC"
+}
